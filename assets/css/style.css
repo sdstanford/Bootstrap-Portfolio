@@ -1,0 +1,260 @@
+body {
+    font-family :Arial, Helvetica, sans-serif;
+    color:#777777;
+    background-image: url(https://www.leisurevillas.com/wp-content/uploads/2014/06/Dollarphotoclub_52868738a.jpg) 
+
+}
+
+.navbar-brand{
+    background-color: #4aaaa5;
+}
+.navbar{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#website-title{
+    margin:0;
+    color:#ffffff;
+    size; 80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#website-title:hover{
+    background-color: #dddddd;
+    color:#4aaaa5;
+}
+ #primary   {
+    background-color:#ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    line-height:1.5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+#socialbox{
+    background-color:#ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    line-height:1.5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#section{
+    overflow:auto;
+}
+
+#primary-modified   {
+    background-color:#ffffff;
+    width: 760px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 120px;
+    margin-right:20px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    line-height:1.5;
+    float: left;
+}
+
+.line{
+    height: 2px;
+    color:#777777;
+}
+
+#sds{
+    margin: 10px;
+    float: left;
+}
+
+#pgph{
+    margin: 15px;
+}
+
+#articlehead {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#connectbox{
+    text-align: center;
+    background-color:#ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+}
+
+.field{
+    width:100%;
+    margin-bottom: 10px;
+}
+
+#minihead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    font-size: 25px;
+}
+
+#submit-button{
+    background-color:#4aaaa5;
+    color:#ffffff;
+    font-size: 18px;
+    padding:10px 10px;
+    margin-top:20px;
+}
+
+.plabels{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width:200px;
+    height:40px;
+    text-align: center;
+    padding-top:15px;
+}
+
+.panel-footer{
+    height: 40px;
+    background-color: #777777;;
+    color:#ffffff;
+    font-size: 10px;
+    text-align: center;
+    padding-top:25px;
+    border: none;
+}
+
+#footer-topper{
+    height: 5px;
+    background-color: #4aaaa5;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color:#dddddd; 
+}
+
+
+
+#block1{
+    float:left;
+    margin-right:40px;
+    margin-left:20px;
+    margin-top:20px;
+    position:relative;
+    }
+    
+    #hangman{
+        background-color: #4aaaa5;
+        color: #ffffff;
+        width:200px;
+        height:40px;
+        text-align: center;
+        padding-top:15px;
+        position:absolute;
+        bottom:0;
+        width:100%;
+        z-index:10;
+        margin-bottom:20px;
+    }
+    
+    #block2{
+    float:left;
+    margin-top:20px;
+    position:relative;
+    }
+    
+    #RPG{
+        background-color: #4aaaa5;
+        color: #ffffff;
+        width:200px;
+        height:40px;
+        text-align: center;
+        padding-top:15px;
+        position:absolute;
+        bottom:0;
+        width:100%;
+        z-index:10;
+        margin-bottom:20px;
+    
+    }
+    
+    #middlewrapper{
+        width:100%;
+    }
+    
+    #block3{
+    float:left;
+    margin-left:20px;
+    margin-right:40px;
+    margin-top:20px;
+    position:relative;
+    }
+    
+    #trivia{
+        background-color: #4aaaa5;
+        color: #ffffff;
+        width:200px;
+        height:40px;
+        text-align: center;
+        padding-top:15px;
+        position:absolute;
+        bottom:0;
+        width:100%;
+        z-index:10;
+        margin-bottom:20px;
+    
+    }
+    
+    #block4{
+    float:left;
+    margin-top:20px;
+    position:relative;
+    }
+    
+    #widget{
+        background-color: #4aaaa5;
+        color: #ffffff;
+        width:200px;
+        height:40px;
+        text-align: center;
+        padding-top:15px;
+        position:absolute;
+        bottom:0;
+        width:100%;
+        z-index:10;
+        margin-bottom:20px;
+    } 
+    
+    
+    #bottomwrapper{
+        width:100%;
+        overflow:auto;
+    }
+    
+    #block5{
+        float:left;
+        margin-left:20px;
+        margin-right:40px;
+        margin-top:20px;
+        position:relative;
+    }
+    
+    #rock{
+        background-color: #4aaaa5;
+        color: #ffffff;
+        height:40px;
+        text-align: center;
+        padding-top:15px;
+        position:absolute;
+        bottom:0;
+        width:100%;
+        z-index:10;
+        margin-bottom:20px;
+    }
