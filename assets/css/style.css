@@ -113,14 +113,43 @@ body {
     margin-top:20px;
 }
 
+
+
+.block{
+    position:relative;
+    margin-bottom: 20px;
+    }
+
+.p-img{
+    width:200px;
+    height:200px;
+}
+
 .plabels{
     background-color: #4aaaa5;
     color: #ffffff;
     width:200px;
     height:40px;
     text-align: center;
-    padding-top:15px;
+    padding:10px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height:40px;
+    text-align: center;
+    position:absolute;
+    top:130px;
+    z-index:10;
 }
+
+#bottomblock{
+    padding-bottom:50px;
+}
+
+#primaryrow{
+    margin-bottom:100px;
+}
+
+
 
 .panel-footer{
     height: 40px;
@@ -131,7 +160,6 @@ body {
     padding-top:25px;
     border: none;
 }
-
 #footer-topper{
     height: 5px;
     background-color: #4aaaa5;
@@ -139,122 +167,3 @@ body {
     border-top-width: 2px;
     border-top-color:#dddddd; 
 }
-
-
-
-#block1{
-    float:left;
-    margin-right:40px;
-    margin-left:20px;
-    margin-top:20px;
-    position:relative;
-    }
-    
-    #hangman{
-        background-color: #4aaaa5;
-        color: #ffffff;
-        width:200px;
-        height:40px;
-        text-align: center;
-        padding-top:15px;
-        position:absolute;
-        bottom:0;
-        width:100%;
-        z-index:10;
-        margin-bottom:20px;
-    }
-    
-    #block2{
-    float:left;
-    margin-top:20px;
-    position:relative;
-    }
-    
-    #RPG{
-        background-color: #4aaaa5;
-        color: #ffffff;
-        width:200px;
-        height:40px;
-        text-align: center;
-        padding-top:15px;
-        position:absolute;
-        bottom:0;
-        width:100%;
-        z-index:10;
-        margin-bottom:20px;
-    
-    }
-    
-    #middlewrapper{
-        width:100%;
-    }
-    
-    #block3{
-    float:left;
-    margin-left:20px;
-    margin-right:40px;
-    margin-top:20px;
-    position:relative;
-    }
-    
-    #trivia{
-        background-color: #4aaaa5;
-        color: #ffffff;
-        width:200px;
-        height:40px;
-        text-align: center;
-        padding-top:15px;
-        position:absolute;
-        bottom:0;
-        width:100%;
-        z-index:10;
-        margin-bottom:20px;
-    
-    }
-    
-    #block4{
-    float:left;
-    margin-top:20px;
-    position:relative;
-    }
-    
-    #widget{
-        background-color: #4aaaa5;
-        color: #ffffff;
-        width:200px;
-        height:40px;
-        text-align: center;
-        padding-top:15px;
-        position:absolute;
-        bottom:0;
-        width:100%;
-        z-index:10;
-        margin-bottom:20px;
-    } 
-    
-    
-    #bottomwrapper{
-        width:100%;
-        overflow:auto;
-    }
-    
-    #block5{
-        float:left;
-        margin-left:20px;
-        margin-right:40px;
-        margin-top:20px;
-        position:relative;
-    }
-    
-    #rock{
-        background-color: #4aaaa5;
-        color: #ffffff;
-        height:40px;
-        text-align: center;
-        padding-top:15px;
-        position:absolute;
-        bottom:0;
-        width:100%;
-        z-index:10;
-        margin-bottom:20px;
-    }
