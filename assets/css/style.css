@@ -120,11 +120,6 @@ body {
 }
 
 
-#hangmanimg{
-    border-style:solid;
-    border-width:1px;
-    border-color:black;
-}
 .block{
     position:relative;
     margin-bottom: 20px;
